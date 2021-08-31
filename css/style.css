@@ -1,0 +1,50 @@
+
+header{
+    background-image: urls(".../img/pattern.png");
+    background-color: aqua;
+    height: 100px;
+}
+
+figure{
+    margin: 0;}
+
+
+
+footer{
+    height: 100px;;
+    background-color: cornflowerblue;
+}
+
+
+#logo{
+    width: 200px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.sottolineatura{
+    color: rgb(0, 162, 255);
+}
+
+.sotto-titolo{
+    color: darkgrey;
+}
+.data{
+    color: darkgrey;
+    font-size: 13px;
+}
+
+.paul{
+    width: 543px;
+}
+
+.descrizione-foto{
+    font-size: 13px;;
+}
+
+.evidenziatura{
+    background-color: yellow;
+}
+.monitor{
+    background-image: url(img/monitor.jpg);
+}
