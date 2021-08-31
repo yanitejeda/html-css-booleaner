@@ -1,8 +1,13 @@
 
 header{
-    background-image: urls("../img/pattern.png");
-    background-color: aqua;
+    background-image: url("../img/pattern.png");
+    background-size: contain;
+    background-color: rgba(75, 114, 243, 0.877);
     height: 100px;
+}
+h1{
+    font-size: 30px;
+    margin-bottom: 0;
 }
 
 figure{
