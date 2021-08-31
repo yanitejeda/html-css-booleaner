@@ -1,20 +1,12 @@
 
 header{
-    background-image: urls(".../img/pattern.png");
+    background-image: urls("../img/pattern.png");
     background-color: aqua;
     height: 100px;
 }
 
 figure{
     margin: 0;}
-
-
-
-footer{
-    height: 100px;;
-    background-color: cornflowerblue;
-}
-
 
 #logo{
     width: 200px;
@@ -33,18 +25,13 @@ footer{
     color: darkgrey;
     font-size: 13px;
 }
-
 .paul{
     width: 543px;
 }
-
 .descrizione-foto{
     font-size: 13px;;
 }
 
 .evidenziatura{
     background-color: yellow;
-}
-.monitor{
-    background-image: url(img/monitor.jpg);
 }
