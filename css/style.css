@@ -73,3 +73,14 @@ ul{
    padding: 10px;
    font-size: 20px;
 }
+table{
+    border-collapse: collapse;
+}
+thead{
+    background-color: rgb(32, 169, 229);
+}
+
+
+.tr-blu{
+    background-color: rgb(177, 229,242);
+}
